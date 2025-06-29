@@ -1,0 +1,17 @@
+.search-bar{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 1rem 1.5rem 0 1.5rem;
+    font-size: 1.5rem;
+}
+.search-bar input{
+    padding: 5px;
+    margin: 1rem 0 0 0;
+    background-color: #dadada;
+}
+
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
